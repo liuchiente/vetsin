@@ -7,3 +7,24 @@ hasCJKLanguage = true
 
 [params]
 env = "production"
+mainSections = ["posts"]
+
+[params.homepage]
+  # 首頁佈局設定： Blowfish 預設首頁可能不顯示列表
+  # 可選: "page", "profile", "hero", "card", "background"
+  layout = "background" 
+  showRecent = true      # 是否在首頁顯示最新文章
+  showRecentItems = 5    # 顯示文章數量
+
+[params.header]
+  layout = "fixed" # 頂部選單固定
+
+[markup.goldmark.renderer]
+  unsafe = true # 允許在 Markdown 中渲染 HTML（留言板必備）
+
+# 語言細節設定，確保 zh-tw 被正確識別
+[languages.zh-tw]
+  languageName = "繁體中文"
+  languageCode = "zh-tw"
+  contentDir = "content"
+  weight = 1
