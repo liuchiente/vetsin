@@ -1,0 +1,16 @@
+---
+title: "立冬補氣  | 台中忠孝夜市姊妹牛羊肉"
+date: 2020-11-21T13:17:00.002Z
+lastmod: 2020-11-21T13:17:24.686Z
+tags: ['炒羊肉', '當歸羊肉湯', '姊妹牛羊肉']
+aliases:
+  - /2020/11/blog-post_21.html
+draft: false
+---
+
+立冬這一天依照習俗是要補冬的，只是不巧我要參加隔天的田中馬，一個人待在台中不知往哪去進補，心裡又瘋狂想吃羊肉湯，還好找到姊妹牛羊肉應應急。  
+原本我是想找一個沒招牌的老羊肉店，隱約只記得在南區還大里，店門口就寫著大大字「羊肉」，可惜怎麼想都想不起來在哪，只好作罷。  
+姊妹牛羊肉在忠孝路靠近台中路附近，也是在夜市的末端了，位置不算難找，就簡單擺個桌子在雨棚下，忠孝夜市有蠻多這種類型的店，跟中華路夜市頗像，我很愛這種味道。[![](/posts/2020-11-blog-post-21/images/2020-11-blog-post-21-2719642709824309239.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Du6QxtEkIEbY0At4OsIdFmTzwrsRroUyapow1zM5g0bdXF7LdI0J9CwDtuAWD8qZm-RQthU9tWgdGat3t\_uApJeD7wZzPgqCMqqK2bsMwUM78SZn7EdryD6p3DZu7hJugqNk2\_6zdmWZ/s2048/IMG\_3931.jpg)簡單點了一個當歸羊肉湯，一盤炒羊肉，再一碗白飯，當歸羊肉燉得香，但又保有嚼勁，我特別喜歡這種羊排骨，當歸湯濃醇厚，當天下著雨冷冷濕濕的，喝這碗湯後全身都暖和了。[![](/posts/2020-11-blog-post-21/images/2020-11-blog-post-21-7166794393635838357.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyd9IOqEt4qoy5r8eapPO9KUvuCOc0mdaW4c1sq8CwbLZAEzISmi\_qFieNgt3c6YbSgGEyWgtgR5b3d4W6BOXCIk4F8-9flIp2ssj8VMvKYWFPYUfwSU\_MkAxSRkUXTYNVY6lmhpFh7\_r9/s2048/IMG\_3932.jpg)整體來說，如果用的是澳洲進口綿羊肉，通常紅燒味道會特別重，用來蓋過腥羶味，若是本土羊肉的話，就能比較放心調味，除了吃來單有當歸味外，也保有羊肉本身鮮味。[![](/posts/2020-11-blog-post-21/images/2020-11-blog-post-21-261176031795869867.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ25qZvoAacizqSTE6iaJHAsr2PMHKUcdDoayy8GY8eaHWhZ5Hl8ZD0Hh7FkuuHpDy0FnOtTOS-xopWueRbARPLB\_ZkD2o\_YfJwt-jykYZim\_ezgMNUjaF7fhY7yw7Bid9FP-580-iIXCG/s2048/IMG\_3933.jpg)[![](/posts/2020-11-blog-post-21/images/2020-11-blog-post-21-8742334052313435585.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuQnvHmDkGpfHdW7KsSb9rmdDAzm7rTzooFW1-yOflLCqUrdSNKKxlzXrmMy\_U7ptpgjS4ZErIoknhLB2AdRQkQ4Nwd9ClZaphWfWwG8fJWsWvgsq31qS1lSvBRdDnnbPwxj8vT3Dk5j-x/s2048/IMG\_3934.jpg)現炒羊肉的鑊氣夠，可能是大火快炒的關係，上桌時洋蔥和青蔥都還有點半生不熟就有點妙，而羊肉本身先醃過也抓了粉，起鍋後趁還冒著煙，挾幾塊拌著白飯一起入口，是真不錯，可惜白飯不夠熱，就少了點趣味。  
+[![](/posts/2020-11-blog-post-21/images/2020-11-blog-post-21-6839956163274198735.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIkzFY1LvnsIOgZLbgn7lvrLnpURrjnLtlofdIQj8mXAi0HPmzZNYzHUCw0ZiQJeBxKNTtat0aOZNzfocz-DTdntZ9GD8nfxowSkbnBtnDkKjGDBie2RhQTnTcICLGoAES5mpudikWrpuz/s2048/IMG\_3935.jpg)炒羊肉用的偏瘦肉部位，醃過後大火炒來鮮嫩不柴。  
+[![](/posts/2020-11-blog-post-21/images/2020-11-blog-post-21-5272389293820327860.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj2bXh67Pdd4dxoUCj0Gdgi82fgBgJU-pCtUEI98Yi0ItIAmqnpF21li6ULJkGFViu6YlFaU4FBPObNLMJgs0Umbp88CkxS1W3ypOwW15xFFBM70GtqRPV66vWjTPrCJpyCQ6BxUerFTfB/s2048/IMG\_3936.jpg)不知道是不是因為立冬關係，我倒沒覺得吃得很飽，但整體來講羊肉相當夠味，值得一吃！不過還是希望改天可以找到我記憶中的老店羊肉味道。[![](/posts/2020-11-blog-post-21/images/2020-11-blog-post-21-6356943976001055651.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPAFwSiGGQGxOP-Vmgd3TEi-p4ZwbiyTST\_jJST6jbzvzv1IMo2oxpEh\_XPjkXVLf8IfXdcqIavO2nUeXa\_0yTUEVqjrkfKIDyBmiZ-w3o8O7u9\_Jw\_vZOokDle2g1mwm7ZKUjOsVobhhz/s2048/IMG\_3937.jpg)附上姐妹牛羊肉地址，喜歡可以來試試。
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7282.315890538128!2d120.6835799657604!3d24.131090721009695!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbeb529f270d00210!2z5aeK5aa554mb576K6IKJ!5e0!3m2!1szh-TW!2stw!4v1605964601030!5m2!1szh-TW!2stw"></iframe>
