@@ -1,30 +1,32 @@
 baseURL = "https://vetsin.inxpire.tw/"
-locale = "zh-tw"
 title = "啊否的好好味啊"
 theme = "blowfish"
+
+# 1. 核心參數：這兩行必須在最前面
 defaultContentLanguage = "zh-tw"
+languageCode = "zh-tw"
 hasCJKLanguage = true
 
+# 2. 強制接管語言定義（不使用 disableLanguages，避免報錯）
+[languages]
+  [languages.zh-tw]
+    languageName = "繁體中文"
+    languageCode = "zh-tw"
+    contentDir = "content"
+    weight = 1
+
+# 3. 核心參數區塊
 [params]
-env = "production"
-mainSections = ["posts"]
+  env = "production"
+  mainSections = ["posts"]
 
 [params.homepage]
-  # 首頁佈局設定： Blowfish 預設首頁可能不顯示列表
-  # 可選: "page", "profile", "hero", "card", "background"
   layout = "background" 
-  showRecent = true      # 是否在首頁顯示最新文章
-  showRecentItems = 5    # 顯示文章數量
+  showRecent = true
+  showRecentItems = 5
 
 [params.header]
-  layout = "fixed" # 頂部選單固定
+  layout = "fixed"
 
 [markup.goldmark.renderer]
-  unsafe = true # 允許在 Markdown 中渲染 HTML（留言板必備）
-
-# 語言細節設定，確保 zh-tw 被正確識別
-[languages.zh-tw]
-  languageName = "繁體中文"
-  languageCode = "zh-tw"
-  contentDir = "content"
-  weight = 1
+  unsafe = true

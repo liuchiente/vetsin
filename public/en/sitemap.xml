@@ -3,67 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2020-11-21T13:17:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:1313/en/</loc>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/zh-tw/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
+      hreflang="zh-tw"
       href="http://localhost:1313/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2020-11-21T13:17:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/2020-11-blog-post-21/</loc>
-    <lastmod>2020-11-21T13:17:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/2020-11-blog-post/</loc>
-    <lastmod>2020-11-21T13:17:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/2020-10-blog-post/</loc>
-    <lastmod>2020-10-12T00:42:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/2020-09-blog-post/</loc>
-    <lastmod>2020-09-15T00:44:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/2020-08-18742020/</loc>
-    <lastmod>2020-08-31T09:20:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/2020-07-blog-post/</loc>
-    <lastmod>2020-08-28T15:03:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/2020-07-ali88/</loc>
-    <lastmod>2020-07-24T00:53:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/"
+    />
   </url>
 </urlset>
