@@ -2,10 +2,10 @@
 title: "苗栗苑裡｜家鄉小吃｜山腳樸實好味"
 date: 2021-07-21T19:46:00Z
 lastmod: 2025-02-19T07:11:13.789Z
-tags: ['Uncategorized']
+tags: ['苑裡', '家鄉小吃', '虱目魚', '薑絲大腸', '台式料理']
 aliases:
   - /2021/07/blog-post_21.html
-draft: true
+draft: false
 ---
 
 這天對我蠻有意思的,跟家人相約好, 陪著[白沙屯媽祖回鑾](https://www.cna.com.tw/news/firstnews/202104190221.aspx), 大概就是走上個半天, 大概十幾二十多公里的路程, 聽起來沒很厲害, 厲害的是那天早上我不巧又和人相約去跑[Zepro路跑台中場](https://running.biji.co/index.php?q=competition&act=info&cid=9137&subtitle=ZEPRO+RUN全國半程馬拉松-台中場), 然後我跑完又回苗栗接續走, 於是乎…走到最後我就開始打瞌睡了。

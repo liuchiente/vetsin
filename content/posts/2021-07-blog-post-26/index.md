@@ -2,10 +2,10 @@
 title: "台中北屯｜燒味幾好味｜張登棋燒味"
 date: 2021-07-26T23:18:00Z
 lastmod: 2025-02-19T07:11:13.463Z
-tags: ['Uncategorized']
+tags: ['燒鵝', '燒味', '叉燒', '台中北屯', '廣東料理']
 aliases:
   - /2021/07/blog-post_26.html
-draft: true
+draft: false
 ---
 
 最近因為[COVID-19](https://news.google.com/covid19/map?hl=zh-TW&mid=/m/06f32&gl=TW&ceid=TW:zh-Hant)[三級警戒](https://zh.wikipedia.org/wiki/2021年中華民國全國第三級防疫警戒)的緣故, 大家都是盡量能不外出就不外出, 我也不例外, 雖然身在中部是採分流上班, 但心裡總有幾分疙瘩, 所以除了常去外帶的店以外, 基本上是都宅在家裡居多, 偶爾想打打牙祭, 就買個餐點回去和家人一起共享, 自然也就少了一些探險的樂趣。
