@@ -1,0 +1,17 @@
+locale = "zh-tw"
+label = "繁體中文"
+weight = 1
+title = "啊否的好好味啊"
+
+[params]
+  displayName = "繁體中文"
+  isoCode = "zh-tw"
+  rtl = false
+  dateFormat = "2006-01-02"
+  description = "記錄台灣各地的好味道"
+
+[params.author]
+  name = "啊否"
+  headline = "台灣美食探索者"
+  bio = "走遍大街小巷，尋找每一口讓人難忘的好味道。從台南古早味到台中巷弄小吃，用文字記錄台灣飲食文化的精彩。"
+  image="https://avatars.githubusercontent.com/u/4715649?s=400&u=74eff8fa5b60312a093911f1b7fdeb529ef02bac&v=4"

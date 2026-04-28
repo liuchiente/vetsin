@@ -1,0 +1,14 @@
+[[main]]
+  name = "文章"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "分類"
+  pageRef = "categories"
+  weight = 20
+
+[[main]]
+  name = "標籤"
+  pageRef = "tags"
+  weight = 30

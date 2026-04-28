@@ -1,7 +1,17 @@
-# 這裡不可縮排，mainSections 是 params 的直接子項
 mainSections = ["posts"]
 
 [homepage]
-  layout = "background"
+  layout = "profile"
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 6
+  cardView = true
+
+[article]
+  showTaxonomies = true
+  showCategories = true
+  showTags = true
+
+[list]
+  showCards = true
+  cardView = true
+  groupByYear = true

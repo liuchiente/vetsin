@@ -1,5 +1,1 @@
-[zh-tw]
-  languageName = "繁體中文"
-  languageCode = "zh-tw"
-  contentDir = "content"
-  weight = 1  # 權重設為 1，確保它是首選
+disabled = true

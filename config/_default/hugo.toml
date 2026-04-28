@@ -1,5 +1,8 @@
 baseURL = "https://vetsin.inxpire.tw/"
 title = "啊否的好好味啊"
 theme = "blowfish"
-# 這是修正錯誤的核心：先指定預設語系
 defaultContentLanguage = "zh-tw"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
